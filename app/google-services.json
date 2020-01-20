@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331137456376",
+    "firebase_url": "https://grouptalk-32a7b.firebaseio.com",
+    "project_id": "grouptalk-32a7b",
+    "storage_bucket": "grouptalk-32a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331137456376:android:1b252f839b0b8d25",
+        "android_client_info": {
+          "package_name": "com.example.grouptalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331137456376-eqr98lofb97umbgf00sipb01s5o8vlio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grouptalk",
+            "certificate_hash": "5c55eecf93ac2802e5d86898f81ca381ec1260c5"
+          }
+        },
+        {
+          "client_id": "331137456376-euaql4sgqra5huvv5ptk1kis7iq6p1k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSV0zN9xlb_pVqO5A4gx7nXjnOvbQhEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331137456376-euaql4sgqra5huvv5ptk1kis7iq6p1k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
